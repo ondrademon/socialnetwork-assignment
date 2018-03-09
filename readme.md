@@ -11,9 +11,9 @@ Můžete si vybrat z několika volně dostupných poskytovatelů:<br>
 - GitLab - zdarma (https://gitlab.com)
 
 Následně nahrávejte změny (commity) pomocí jednoho z mnoha nástrojů.<br>
-Můžete si vybrat zde:<br>
+Můžete si vybrat zde:
 https://git-scm.com/downloads/guis/<br>
-nebo využijte aplikace v textovém prostředí:<br>
+nebo využijte aplikace v textovém prostředí:
 https://git-scm.com/downloads<br><br>
 
 Jak se se systémem Git pracuje se můžete naučit zde:

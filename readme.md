@@ -43,3 +43,4 @@ V kořenu repozitáře vytvořte soubor README.md s popisem postupu nasazení va
     - Čas přidání příspěvku
     - Mazání příspěvků
     - Nahrávání příspěvků přes ajax
+Juchů :)

@@ -38,6 +38,7 @@ class SignPresenter extends Nette\Application\UI\Presenter
 	}
 	public function actionOut()
 	{
+		$his->redirect('Sign:in');
 		$this->getUser()->logout();
 	}
 }
